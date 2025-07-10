@@ -1,3 +1,2 @@
 # git-demo
-
-New version
+Initialize with a README
